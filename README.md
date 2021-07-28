@@ -1,5 +1,5 @@
 # random-new-yorker-cartoon
 
-a website that displays a new comic from _the new yorker_ with every click of the "randomize" button
+a website that displays a new comic from [the new yorker](https://www.newyorker.com/cartoons/daily-cartoon) with every click of the "randomize" button
 
-made with ❤️ by isabella peralta 
+made with ❤️ by [isabella peralta](https://www.isabellaperalta.com/)
