@@ -1,4 +1,5 @@
 # random-new-yorker-cartoon
-your daily dose of humor
+
+A website that displays a new comic from The New Yorker with every click of the "Randomize" button
 
 made with ❤️ by isabella peralta 
